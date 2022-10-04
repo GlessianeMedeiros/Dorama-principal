@@ -1,0 +1,88 @@
+h1{
+    padding: 20px;
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-size: 45px;
+   
+}
+
+body{
+    background: linear-gradient(236.85deg, #063068 27.26%, #3882dd 96.03%);
+    font-family: Arial;
+    text-align: center;
+    font-size: 25px;
+    margin: 3px;
+    
+}
+
+#menu ul{
+    margin:0px;
+    background-color:#1353a1;
+    list-style: none;
+    text-align: left;
+
+
+}
+
+#menu ul li{
+    display:inline;
+
+}
+
+#menu ul li a{
+    padding: 8px 10px;
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+
+}
+
+#menu ul li a:hover{
+    background-color: black;
+}
+
+
+
+
+section{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size:33px;
+   
+}
+
+#_box-image{
+    padding: 1px;
+}
+
+#_img-header-div{
+    padding:15%;
+    background-image:url("https://resenhandosonhos.com/wp-content/uploads/2020/12/startup2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+}
+
+footer{
+    color:white;
+}
+
+img {
+    width: 250px;
+    height: 180px;
+}
+
+h2{
+    color:white;
+    text-align:center;
+    background-color:#75b2fc;
+    
+}
+
+ol{
+    padding-left: 370px;
+    color:white;
+    text-align:left;
+    font-size: 35px;
+}
